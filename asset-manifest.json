@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jatinportfolio/static/css/main.537af112.css",
-    "main.js": "/jatinportfolio/static/js/main.96d3fcf4.js",
+    "main.css": "/jatinportfolio/static/css/main.98de4149.css",
+    "main.js": "/jatinportfolio/static/js/main.93701e1e.js",
     "static/js/787.024c6d6c.chunk.js": "/jatinportfolio/static/js/787.024c6d6c.chunk.js",
     "static/media/portfolio.PNG": "/jatinportfolio/static/media/portfolio.8b107ee33a2700411fd8.PNG",
     "static/media/background.jpg": "/jatinportfolio/static/media/background.f1067f4ee7270b483897.jpg",
@@ -30,12 +30,12 @@
     "static/media/nav-icon2.svg": "/jatinportfolio/static/media/nav-icon2.8438232a2cdbd4474271b60cdb11a202.svg",
     "index.html": "/jatinportfolio/index.html",
     "static/media/nav-icon1.svg": "/jatinportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.537af112.css.map": "/jatinportfolio/static/css/main.537af112.css.map",
-    "main.96d3fcf4.js.map": "/jatinportfolio/static/js/main.96d3fcf4.js.map",
+    "main.98de4149.css.map": "/jatinportfolio/static/css/main.98de4149.css.map",
+    "main.93701e1e.js.map": "/jatinportfolio/static/js/main.93701e1e.js.map",
     "787.024c6d6c.chunk.js.map": "/jatinportfolio/static/js/787.024c6d6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.537af112.css",
-    "static/js/main.96d3fcf4.js"
+    "static/css/main.98de4149.css",
+    "static/js/main.93701e1e.js"
   ]
 }
