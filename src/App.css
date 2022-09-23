@@ -474,18 +474,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /*$$$$$$$$$$$ Contact $$$$$$$$$$$$*/
 .contact {
   background: linear-gradient(90.21deg, #442142 -5.91%, #191239 111.58%);
-  padding: 60px 80px 200px 80px;
-  margin: 35px;
+  padding: 60px 40px 200px 20px;
   border-radius: 100px;
-  width: 88%;
+  width: 100%;
   align-items: center;
 
   
 }
 .contact h2 {
-	font-size: 45px;
-	font-weight: 700;
+  font-size: 45px;
+  font-weight: 700;
   margin-bottom: 30px;
+  text-align: center;
 }
 .contact form input, .contact form textarea {
   width: 100%;
@@ -588,18 +588,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 55px;
   color: #ffffff;
   padding: 25px;
-  margin: -122px  0 80px 50px;
+  margin: -122px  0 0 0;
   display: flex;
-  width: 80%;
-}
-.newsletter-bx h3 {
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  line-height: 1.2em;
+  width: 100%;
+  text-align: center;
 }
 .new-suggestion-bx {
   padding: 5px;
-  line-height: 14%;
+ 
   border-radius: 20px;
   border: 2px solid;
   position: relative;
