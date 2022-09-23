@@ -66,9 +66,9 @@ import Button from 'react-bootstrap/Button';
             </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href="https://github.com/Jatinpathak28"><img src={navIcon1} alt="linkden" /></a>
-                <a href="https://www.linkedin.com/in/jatinpathak28/"><img src={navIcon2} alt="facebook" /></a>
-                <a href="https://twitter.com/jatinpathak2002?s=09"><img src={navIcon3} alt="instagrsm" /></a>
+                <a href="https://www.linkedin.com/in/jatinpathak28/"><img src={navIcon1} alt="linkden" /></a>
+                <a href="https://twitter.com/jatinpathak2002?s=09"><img src={navIcon2} alt="facebook" /></a>
+                <a href="https://github.com/Jatinpathak28"><img src={navIcon3} alt="instagrsm" /></a>
             </div>
             <HashLink to="#connect">
             <button className="contat"><span>Hire Me</span></button>
